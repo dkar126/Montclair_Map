@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Montclair_Map</string>
+    <string name="splash_text1" />
+    <string name="splash_text2" />
+    <string name="splash_text3" />
+    <string name="navigate_to_montclair_state_university">Navigate to Montclair State University</string>
+    <string name="this_app_shows_how_to_navigate_by_car_from_your">This app shows how to navigate by car from your</string>
+    <string name="current_location_to_montclair_state_university">current location to Montclair State University.</string>
+</resources>
